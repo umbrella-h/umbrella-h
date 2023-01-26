@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 🔭  I'm currently working on ...
    > Show my Habitica citizen profile here! \
      \
-     ![avatar](https://res.cloudinary.com/di6e0iunm/image/upload/v1674742417/habitica-stat-box/my_avatar.jpg?)\
+     ![avatar](https://res.cloudinary.com/di6e0iunm/image/upload/habitica-stat-box/my_avatar.jpg?)\
      Powered by GrabzIt

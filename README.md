@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭  I'm currently working on ...
-   > Showing my Habitica citizen profile here! \
+   > Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile here! \
      \
      ![avatar](https://res.cloudinary.com/di6e0iunm/image/upload/v1/habitica-stat-box/my_avatar.jpg?)\
      <sup><sub>The MVP is powered by GitHub Actions, Cloudinary, and GrabzIt<sub></sub>

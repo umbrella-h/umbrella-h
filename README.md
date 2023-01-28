@@ -19,4 +19,4 @@ Here are some ideas to get you started:
    > Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile here! \
      \
      ![avatar](https://res.cloudinary.com/di6e0iunm/image/upload/v1/habitica-stat-box/my_avatar.jpg?)\
-     <sup><sub>The MVP is powered by GitHub Actions, Cloudinary, and GrabzIt<sub></sub>
+     <sup><sub>Powered by GitHub Actions, Cloudinary, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>

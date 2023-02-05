@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 🔭  I'm currently working on ...
    > Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile here! \
      \
-     ![avatar](https://res.cloudinary.com/di6e0iunm/image/upload/v1/habitica-stat-box/my_avatar.jpg?)\
+     [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
      <sup><sub>Powered by GitHub Actions, Cloudinary, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>

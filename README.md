@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 🔭  I'm currently working on ...
-   > Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile here! \
+   > Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile [here!](https://gist.github.com/umbrella-h/8742be48f03de4f058a50d796d1419e9) \
      \
      [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
      <sup><sub>Powered by GitHub Actions, Cloudinary, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>

@@ -21,3 +21,9 @@ Here are some ideas to get you started:
      \
      [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
      <sup><sub>Powered by GitHub Actions, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>
+   
+   > Refactoring, facing the spaghetti cooked by [@oscarada87](https://github.com/oscarada87) and me...🍝🍝🍝 🤦 🏗️ \
+     \
+     [tanji-bot](https://github.com/oscarada87/tanji-bot) (🚧 lots of spaghetti)\
+     <sup><sub>A linebot amuses our friends with pet pics & stack info 🐱💰<sub></sub>
+     

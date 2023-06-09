@@ -27,8 +27,8 @@ Here are some ideas to get you started:
      [tanji-bot](https://github.com/oscarada87/tanji-bot) (🚧 lots of spaghetti)\
      <sup><sub>A linebot which amuses our friends with pet pics & stack info 🐱💰<sub></sub>
         
-   > 🐞 Trying to fix a little bug in a gem\
+   > 🐞 Trying to fix a little bug in a gem.\
      \
      [sunnyfounder/aws_instance_connect_helper/issues/1](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
-     <sup><sup>My colleague created this useful tool, a Capistrano3 plugin for EC2 Instance Connect deployment bundled with some AWS EC2 rake templates.<sub></sub> 
+     <sup><sup>My colleague created this useful tool for EC2 Instance Connect deployment.<sub></sub> 
      

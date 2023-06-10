@@ -24,8 +24,8 @@ Here are some ideas to get you started:
    
    > 🍝 Refactoring, facing the spaghetti cooked by [@oscarada87](https://github.com/oscarada87) and me...🤦 🏗️ \
      \
-     [tanji-bot](https://github.com/oscarada87/tanji-bot) (🚧 lots of spaghetti)\
-     <sup><sub>A linebot which amuses our friends with pet pics & stack info 🐱💰<sub></sub>
+     [tanji-bot](https://github.com/oscarada87/tanji-bot) (Warning: lots of spaghetti)\
+     <sup><sub>A linebot which amuses our friends with pet pics & stack info.<sub></sub>
         
    > 🐞 Trying to fix a little bug in a gem.\
      \

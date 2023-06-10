@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
    > 🐞 Trying to fix a bug in Habitica.\
      \
-     issue [HabitRPG/habitica #14563](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
+     issue [HabitRPG/habitica #14563](https://github.com/HabitRPG/habitica/issues/14563)\
      <sup><sup>FAQ translations do not appear on the Habitica web page.<sub></sub>
 
    > 🍝 Refactoring, facing the spaghetti cooked by [@oscarada87](https://github.com/oscarada87) and me...🤦 🏗️ \

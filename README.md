@@ -29,6 +29,6 @@ Here are some ideas to get you started:
         
    > 🐞 Trying to fix a little bug in a gem.\
      \
-     [sunnyfounder/aws_instance_connect_helper/issues/1](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
+     issue [sunnyfounder/aws_instance_connect_helper#1](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
      <sup><sup>My colleague created this useful tool for EC2 Instance Connect deployment.<sub></sub> 
      

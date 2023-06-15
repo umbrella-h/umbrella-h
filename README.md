@@ -22,7 +22,7 @@ Here are some ideas to get you started:
      [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
      <sup><sub>Powered by GitHub Actions, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>
    
-   > 🐞 Trying to fix a little bug in a gem.(Ruby)\
+   > 🐞 Trying to fix a little bug in a gem. (Ruby)\
      \
      issue [sunnyfounder/aws_instance_connect_helper #1](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
      <sup><sup>My colleague created this useful tool for EC2 Instance Connect deployment.<sub></sub>

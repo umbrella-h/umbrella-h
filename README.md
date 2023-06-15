@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 -->
 
 🔭  I'm currently working on ...
-   > 🥷 Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile [here!](https://gist.github.com/umbrella-h/2affbec51aec6050a462cee0b2293e46) \
+   > 🥷 Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile [here!](https://gist.github.com/umbrella-h/2affbec51aec6050a462cee0b2293e46) (Ruby)\
      \
      [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
      <sup><sub>Powered by GitHub Actions, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>
    
-   > 🐞 Trying to fix a little bug in a gem.\
+   > 🐞 Trying to fix a little bug in a gem.(Ruby)\
      \
      issue [sunnyfounder/aws_instance_connect_helper #1](https://github.com/sunnyfounder/aws_instance_connect_helper/issues/1)\
      <sup><sup>My colleague created this useful tool for EC2 Instance Connect deployment.<sub></sub>
 
-   > 🐞 Trying to fix a bug in Habitica.\
+   > 🐞 Trying to fix a bug in Habitica. (NodeJS)\
      \
      issue [HabitRPG/habitica #14563](https://github.com/HabitRPG/habitica/issues/14563)\
      <sup><sup>FAQ translations do not appear on the Habitica web page.<sub></sub>
 
-   > 🍝 Refactoring, facing the spaghetti cooked by [@oscarada87](https://github.com/oscarada87) and me...🤦 🏗️ \
+   > 🍝 Refactoring, facing the spaghetti cooked by [@oscarada87](https://github.com/oscarada87) and me...🤦 🏗️ (Flask) \
      \
      [tanji-bot](https://github.com/oscarada87/tanji-bot) (Warning: lots of spaghetti)\
      <sup><sub>A linebot which amuses our friends with pet pics & stack info.<sub></sub>

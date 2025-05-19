@@ -1,29 +1,24 @@
+Kasa, a web developer from Taiwan who juggles Ruby, TypeScript, and a bit of Python, currently works at a university — not as a lecturer or a researcher, but as an everyday engineer focusing on an e-learning system.
 
-### Hi there 👋
+In May 2025, she became better known in the community as “the Taiwanese girl who got inspired at the [RubyKaigi Code Party](https://github.com/andpad-dev/code-party/tree/main/rubykaigi-2025) and [wrote a 無限タルト TRICK](https://x.com/k_hno3/status/1917560808164450741)” — although she’s already eager to craft a newer, more advanced [TRICK](https://github.com/tric) for [RubyConf Taiwan](https://2025.rubyconf.tw/).
 
-<!--
-**umbrella-h/umbrella-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Her favorite Ruby syntax is inheritance: `class Kasa < Hsiao` — something about its conciseness and wit that soothes her inner chaos.
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cherishing every little step that brings her closer to the OSS community:
 
-🔭  I'm currently working on ...
-   > 🥷 Showing my [Habitica](https://github.com/HabitRPG/habitica) citizen profile [here!](https://gist.github.com/umbrella-h/2affbec51aec6050a462cee0b2293e46) (Ruby)\
-     \
-     [habitica-stat-box](https://github.com/umbrella-h/habitica-stat-box)\
-     <sup><sub>Powered by GitHub Actions, GrabzIt, and [habitica-avatar](https://github.com/crookedneighbor/habitica-avatar)<sub></sub>
-   
-   > 🐞 Trying to fix a bug in Habitica. (NodeJS)\
-     \
-     issue [HabitRPG/habitica #14563](https://github.com/HabitRPG/habitica/issues/14563)\
-     <sup><sup>FAQ translations do not appear on the Habitica web page.<sub></sub>
-     
+🐞 Her first submitted OSS bug issue:
+> [rubocop/rubocop-rails #1045](https://github.com/rubocop/rubocop-rails/issues/1045)\
+     <sup><sup>Auto-correction fixes both Style/InverseMethods and Rails/NegateInclude in a line.<sub></sub>
+
+🚀 Her first merged OSS PR:
+> [HabitRPG/habitica #15079](https://github.com/HabitRPG/habitica/pull/15079)\
+     <sup><sup>Fixed #14563 FAQ translations on the web page<sub></sub>
+
+👩🏻‍💻 Her Code Party enjoyment:
+> [andpad-dev/code-party #30](https://github.com/andpad-dev/code-party/pull/30)\
+> [andpad-dev/code-party #66](https://github.com/andpad-dev/code-party/pull/66)
+
+🥰 Her first [emori.house](https://emori.house/) participation:
+> [emorihouse/emorihouse.github.io #97](https://github.com/emorihouse/emorihouse.github.io/pull/97)

@@ -1,8 +1,12 @@
-Kasa, a web developer from Taiwan who juggles Ruby, TypeScript, Python, and a bit of DevOps, currently works at a university—not as a lecturer or a researcher, but as an everyday engineer focusing on an e-learning system.
+Kasa, a web developer from Taiwan who juggles Ruby, TypeScript, Python, and a bit of DevOps, [works on an e-learning system at a university](https://speakerdeck.com/kasahno3/challenges-and-strategies-in-self-hosting-canvas-lms-and-lti-tools).
 
-In May 2025, she became better known in the community as "the Taiwanese girl who got inspired at the [RubyKaigi Code Party](https://github.com/andpad-dev/code-party/tree/main/rubykaigi-2025) and [wrote a "無限タルト TRICK"](https://x.com/k_hno3/status/1917560808164450741)" —although she's already eager to craft a newer, more advanced [TRICK](https://github.com/tric), ["With Ruby, We Stride"](https://x.com/k_hno3/status/1950498958197039264), for [RubyConf Taiwan](https://2025.rubyconf.tw/).
+In May 2025, she became a bit better known in the community as “the Taiwanese girl who got inspired at the [RubyKaigi Code Party](https://github.com/andpad-dev/code-party/tree/main/rubykaigi-2025) and [wrote the *無限タルト* TRICK](https://x.com/k_hno3/status/1917560808164450741).” This later led her to craft [*With Ruby, We Stride*](https://x.com/k_hno3/status/1950498958197039264) for [RubyConf Taiwan](https://2025.rubyconf.tw/).
 
-Her favorite Ruby syntax is inheritance: `class Kasa < Hsiao` —something about its conciseness and wit that soothes her inner chaos.
+In August 2025, she volunteered as the main organizer of [the first-ever Code Party at RubyConf Taiwan](https://x.com/rubyconftw/status/1955430922062586024), a collaborative space with topic tables hosted by active contributors from the global OSS community. Since then, she has also become one of the main organizers of the [Ruby Taiwan Community](https://linktr.ee/rubytaiwan2008).
+
+Her favorite Ruby syntax is inheritance: `class Kasa < Hsiao`. Something about its conciseness and quiet wit soothes her inner chaos.
+
+![With Ruby, We Stride GIF](with-ruby-we-stride.gif)
 
 -----
 
